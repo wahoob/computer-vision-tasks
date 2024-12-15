@@ -1,0 +1,8 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Alzheimer_s Dataset (including nested directories)
+Alzheimer_s Dataset/
+
+# Ignore Dataset directory
+Dataset/
